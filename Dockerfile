@@ -12,4 +12,3 @@ COPY . .
 
 # Run index.js
 ENTRYPOINT ["node", "src/index.js"]
-
